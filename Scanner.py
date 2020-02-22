@@ -135,7 +135,6 @@ for x in range(9000,9999):
 
 time.sleep(0.4)
 
-# Flushing the stdout to avoid buffering
 sys.stdout.flush()
 
 print ('')
