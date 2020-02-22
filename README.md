@@ -7,7 +7,7 @@ This script will scan 10000 TCP/UDP ports in about 6 seconds. It all depends on 
 
 ## Getting Started
 
-First you will need to create a ssh key inside your machine and properly filling in all the required fields.
+
 
 
 
